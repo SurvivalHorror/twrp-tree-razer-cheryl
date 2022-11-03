@@ -2,7 +2,7 @@ BOARD_VENDOR := razer
 
 DEVICE_PATH := device/razer/cheryl
 
-ALLOW_MISSING_DEPENDENCIES = true
+ALLOW_MISSING_DEPENDENCIES := true
 
 BUILD_BROKEN_DUP_RULES := true
 
